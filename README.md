@@ -44,4 +44,8 @@ Criei este projeto para praticar programação, banco de dados e interface gráf
 
 👨‍💻 Autor
 
+<<<<<<< HEAD
 Projeto desenvolvido por Lucas Rocha aos 15 anos como parte dos estudos em programação.
+=======
+Projeto desenvolvido por Lucas Rocha em 26/02/2026.
+>>>>>>> 3832d26f9e8820334d13c60ace96b943dabc666c
