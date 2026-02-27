@@ -2,7 +2,7 @@
 
 Meu primeiro projeto em Python com interface gráfica e banco de dados.
 
-📌 Sobre o projeto
+    📌 Sobre o projeto
 
 Este projeto é um sistema de login desenvolvido em Python.
 Ele permite que usuários façam cadastro e login, salvando os dados em um banco de dados MySQL.
